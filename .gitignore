@@ -1,0 +1,9 @@
+.server.zip
+.employees.json
+.demo.json
+.attendance_report_copy.json
+.attendance_logs_09-25.json
+.attendance_before.js
+backend/
+my-app/
+attendance-frontend/
