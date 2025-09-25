@@ -7,3 +7,4 @@
 backend/
 my-app/
 attendance-frontend/
+node_modules/
