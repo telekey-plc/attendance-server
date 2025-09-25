@@ -1810,7 +1810,7 @@
   {
     "name": "Aron G/Medhin",
     "badge_id": "1010",
-    "shift_type": "day_shift",
+    "shift_type": "regular",
     "worked": [
       {
         "date": "2025-09-01",
@@ -1824,6 +1824,34 @@
         "from": "2025-09-01 14:05:07",
         "to": "2025-09-01 17:42:27",
         "worked_hours": "3.62",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-02",
+        "from": "2025-09-02 09:20:15",
+        "to": "2025-09-02 13:29:03",
+        "worked_hours": "4.15",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-02",
+        "from": "2025-09-02 14:12:51",
+        "to": "2025-09-02 19:23:33",
+        "worked_hours": "5.18",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-04",
+        "from": "2025-09-04 09:03:21",
+        "to": "2025-09-04 12:26:45",
+        "worked_hours": "3.39",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-04",
+        "from": "2025-09-04 13:33:01",
+        "to": "2025-09-04 18:46:47",
+        "worked_hours": "5.23",
         "auto_filled": false
       },
       {
@@ -1841,6 +1869,27 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-06",
+        "from": "2025-09-06 09:33:14",
+        "to": "2025-09-06 12:38:37",
+        "worked_hours": "3.09",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-08",
+        "from": "2025-09-08 09:39:07",
+        "to": "2025-09-08 13:25:31",
+        "worked_hours": "3.77",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-08",
+        "from": "2025-09-08 15:49:39",
+        "to": "2025-09-08 17:43:29",
+        "worked_hours": "1.90",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-09",
         "from": "2025-09-09 09:27:53",
         "to": "2025-09-09 12:44:34",
@@ -1853,6 +1902,20 @@
         "to": "2025-09-09 17:15:38",
         "worked_hours": "3.59",
         "auto_filled": false
+      },
+      {
+        "date": "2025-09-10",
+        "from": "2025-09-10 08:48:35",
+        "to": "2025-09-10 12:55:12",
+        "worked_hours": "4.11",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-10",
+        "from": null,
+        "to": "2025-09-10 16:04:51",
+        "worked_hours": "7.58",
+        "auto_filled": true
       },
       {
         "date": "2025-09-13",
@@ -1883,6 +1946,20 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-16",
+        "from": "2025-09-16 09:39:03",
+        "to": "2025-09-16 12:49:33",
+        "worked_hours": "3.17",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-16",
+        "from": "2025-09-16 13:35:59",
+        "to": "2025-09-16 19:04:02",
+        "worked_hours": "5.47",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-17",
         "from": "2025-09-17 08:29:40",
         "to": "2025-09-17 12:46:57",
@@ -1893,8 +1970,22 @@
         "date": "2025-09-17",
         "from": "2025-09-17 13:30:43",
         "to": null,
-        "worked_hours": "5.49",
+        "worked_hours": "3.99",
         "auto_filled": true
+      },
+      {
+        "date": "2025-09-18",
+        "from": "2025-09-18 08:55:21",
+        "to": "2025-09-18 14:38:14",
+        "worked_hours": "5.71",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-18",
+        "from": "2025-09-18 15:32:17",
+        "to": "2025-09-18 17:36:37",
+        "worked_hours": "2.07",
+        "auto_filled": false
       },
       {
         "date": "2025-09-19",
@@ -1911,6 +2002,27 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-20",
+        "from": "2025-09-20 08:53:33",
+        "to": "2025-09-20 12:14:31",
+        "worked_hours": "3.35",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-22",
+        "from": "2025-09-22 08:59:17",
+        "to": "2025-09-22 12:36:59",
+        "worked_hours": "3.63",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-22",
+        "from": "2025-09-22 13:15:55",
+        "to": "2025-09-22 17:27:22",
+        "worked_hours": "4.19",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-23",
         "from": "2025-09-23 09:47:33",
         "to": "2025-09-23 13:08:55",
@@ -1918,10 +2030,24 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-24",
+        "from": "2025-09-24 08:41:39",
+        "to": "2025-09-24 12:31:26",
+        "worked_hours": "3.83",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-24",
+        "from": "2025-09-24 13:10:37",
+        "to": "2025-09-24 17:19:26",
+        "worked_hours": "4.15",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-25",
         "from": "2025-09-25 09:09:07",
         "to": null,
-        "worked_hours": "9.85",
+        "worked_hours": "8.35",
         "auto_filled": true
       }
     ],
@@ -1929,93 +2055,143 @@
       {
         "date": "2025-09-01",
         "time": "2025-09-01 09:43:51",
-        "minutes": 164
+        "minutes": 74
+      },
+      {
+        "date": "2025-09-02",
+        "time": "2025-09-02 09:20:15",
+        "minutes": 50
+      },
+      {
+        "date": "2025-09-04",
+        "time": "2025-09-04 09:03:21",
+        "minutes": 33
       },
       {
         "date": "2025-09-05",
         "time": "2025-09-05 09:44:31",
-        "minutes": 165
+        "minutes": 75
+      },
+      {
+        "date": "2025-09-06",
+        "time": "2025-09-06 09:33:14",
+        "minutes": 63
+      },
+      {
+        "date": "2025-09-08",
+        "time": "2025-09-08 09:39:07",
+        "minutes": 69
       },
       {
         "date": "2025-09-09",
         "time": "2025-09-09 09:27:53",
-        "minutes": 148
+        "minutes": 58
+      },
+      {
+        "date": "2025-09-10",
+        "time": "2025-09-10 08:48:35",
+        "minutes": 19
       },
       {
         "date": "2025-09-13",
         "time": "2025-09-13 09:24:58",
-        "minutes": 145
+        "minutes": 55
       },
       {
         "date": "2025-09-15",
         "time": "2025-09-15 10:03:30",
-        "minutes": 184
+        "minutes": 94
       },
       {
-        "date": "2025-09-17",
-        "time": "2025-09-17 08:29:40",
-        "minutes": 90
+        "date": "2025-09-16",
+        "time": "2025-09-16 09:39:03",
+        "minutes": 69
+      },
+      {
+        "date": "2025-09-18",
+        "time": "2025-09-18 08:55:21",
+        "minutes": 25
       },
       {
         "date": "2025-09-19",
         "time": "2025-09-19 08:52:02",
-        "minutes": 112
+        "minutes": 22
+      },
+      {
+        "date": "2025-09-20",
+        "time": "2025-09-20 08:53:33",
+        "minutes": 24
+      },
+      {
+        "date": "2025-09-22",
+        "time": "2025-09-22 08:59:17",
+        "minutes": 29
       },
       {
         "date": "2025-09-23",
         "time": "2025-09-23 09:47:33",
-        "minutes": 168
+        "minutes": 78
+      },
+      {
+        "date": "2025-09-24",
+        "time": "2025-09-24 08:41:39",
+        "minutes": 12
       },
       {
         "date": "2025-09-25",
         "time": "2025-09-25 09:09:07",
-        "minutes": 129
+        "minutes": 39
       }
     ],
     "early_checkouts": [
       {
-        "date": "2025-09-01",
-        "time": "2025-09-01 17:42:27",
-        "minutes": 78
-      },
-      {
-        "date": "2025-09-05",
-        "time": "2025-09-05 17:31:58",
-        "minutes": 88
-      },
-      {
         "date": "2025-09-09",
         "time": "2025-09-09 17:15:38",
-        "minutes": 104
+        "minutes": 14
       },
       {
-        "date": "2025-09-13",
-        "time": "2025-09-13 13:33:38",
-        "minutes": 326
-      },
-      {
-        "date": "2025-09-15",
-        "time": "2025-09-15 17:33:51",
-        "minutes": 86
+        "date": "2025-09-10",
+        "time": "2025-09-10 16:04:51",
+        "minutes": 85
       },
       {
         "date": "2025-09-17",
         "time": "2025-09-17 12:46:57",
-        "minutes": 373
+        "minutes": 283
       },
       {
-        "date": "2025-09-19",
-        "time": "2025-09-19 17:34:03",
-        "minutes": 86
+        "date": "2025-09-20",
+        "time": "2025-09-20 12:14:31",
+        "minutes": 15
+      },
+      {
+        "date": "2025-09-22",
+        "time": "2025-09-22 17:27:22",
+        "minutes": 3
       },
       {
         "date": "2025-09-23",
         "time": "2025-09-23 13:08:55",
-        "minutes": 351
+        "minutes": 261
+      },
+      {
+        "date": "2025-09-24",
+        "time": "2025-09-24 17:19:26",
+        "minutes": 11
       }
     ],
-    "extra_hours": [],
+    "extra_hours": [
+      {
+        "date": "2025-09-02",
+        "extra_hours": 0.32
+      }
+    ],
     "forgot": [
+      {
+        "type": "forgot_checkin",
+        "date": "2025-09-10",
+        "time": "2025-09-10 16:04:51"
+      },
       {
         "type": "forgot_checkout",
         "date": "2025-09-17",
@@ -2029,18 +2205,17 @@
     ],
     "absent_days": [
       "2025-09-03",
-      "2025-09-07",
-      "2025-09-21"
+      "2025-09-12"
     ],
     "off_days": [],
     "unscheduled_shifts": [],
     "totals": {
-      "total_worked_hours": 46.85,
-      "total_worked_auto": 62.18,
-      "total_late_hours": 21.72,
-      "total_early_hours": 24.88,
-      "expected_work_days": 12,
-      "expected_work_hours": 144
+      "total_worked_hours": 113.24,
+      "total_worked_auto": 133.15,
+      "total_late_hours": 14.78,
+      "total_early_hours": 11.21,
+      "expected_work_days": 21,
+      "expected_work_hours": 174
     }
   },
   {
@@ -14575,7 +14750,7 @@
   {
     "name": "Zelalem Amensa",
     "badge_id": "1071",
-    "shift_type": "day_shift",
+    "shift_type": "regular",
     "worked": [
       {
         "date": "2025-09-01",
@@ -14588,7 +14763,21 @@
         "date": "2025-09-01",
         "from": null,
         "to": "2025-09-01 17:44:14",
-        "worked_hours": "10.74",
+        "worked_hours": "9.24",
+        "auto_filled": true
+      },
+      {
+        "date": "2025-09-02",
+        "from": "2025-09-02 08:07:35",
+        "to": "2025-09-02 13:29:10",
+        "worked_hours": "5.36",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-02",
+        "from": "2025-09-02 14:17:17",
+        "to": null,
+        "worked_hours": "3.21",
         "auto_filled": true
       },
       {
@@ -14616,7 +14805,21 @@
         "date": "2025-09-05",
         "from": null,
         "to": "2025-09-05 17:32:08",
-        "worked_hours": "10.54",
+        "worked_hours": "9.04",
+        "auto_filled": true
+      },
+      {
+        "date": "2025-09-08",
+        "from": "2025-09-08 08:34:05",
+        "to": "2025-09-08 13:26:09",
+        "worked_hours": "4.87",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-08",
+        "from": null,
+        "to": "2025-09-08 17:43:26",
+        "worked_hours": "9.22",
         "auto_filled": true
       },
       {
@@ -14630,7 +14833,21 @@
         "date": "2025-09-09",
         "from": null,
         "to": "2025-09-09 17:15:42",
-        "worked_hours": "10.26",
+        "worked_hours": "8.76",
+        "auto_filled": true
+      },
+      {
+        "date": "2025-09-10",
+        "from": "2025-09-10 08:15:07",
+        "to": "2025-09-10 12:53:45",
+        "worked_hours": "4.64",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-10",
+        "from": null,
+        "to": "2025-09-10 17:30:17",
+        "worked_hours": "9.00",
         "auto_filled": true
       },
       {
@@ -14648,6 +14865,20 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-16",
+        "from": "2025-09-16 08:27:00",
+        "to": "2025-09-16 13:36:16",
+        "worked_hours": "5.15",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-16",
+        "from": "2025-09-16 14:59:28",
+        "to": "2025-09-16 17:34:36",
+        "worked_hours": "2.59",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-17",
         "from": "2025-09-17 08:09:49",
         "to": "2025-09-17 12:39:20",
@@ -14659,6 +14890,20 @@
         "from": "2025-09-17 13:31:24",
         "to": "2025-09-17 17:47:28",
         "worked_hours": "4.27",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-18",
+        "from": "2025-09-18 08:29:58",
+        "to": "2025-09-18 14:38:29",
+        "worked_hours": "6.14",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-18",
+        "from": "2025-09-18 15:32:25",
+        "to": "2025-09-18 17:36:28",
+        "worked_hours": "2.07",
         "auto_filled": false
       },
       {
@@ -14676,6 +14921,27 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-20",
+        "from": "2025-09-20 07:48:48",
+        "to": "2025-09-20 12:14:38",
+        "worked_hours": "4.43",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-22",
+        "from": "2025-09-22 07:58:32",
+        "to": "2025-09-22 12:37:06",
+        "worked_hours": "4.64",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-22",
+        "from": "2025-09-22 13:16:22",
+        "to": "2025-09-22 17:27:12",
+        "worked_hours": "4.18",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-23",
         "from": "2025-09-23 09:32:17",
         "to": "2025-09-23 12:15:56",
@@ -14683,10 +14949,24 @@
         "auto_filled": false
       },
       {
+        "date": "2025-09-24",
+        "from": "2025-09-24 08:19:15",
+        "to": "2025-09-24 12:31:33",
+        "worked_hours": "4.21",
+        "auto_filled": false
+      },
+      {
+        "date": "2025-09-24",
+        "from": "2025-09-24 13:10:43",
+        "to": "2025-09-24 17:19:53",
+        "worked_hours": "4.15",
+        "auto_filled": false
+      },
+      {
         "date": "2025-09-25",
         "from": "2025-09-25 08:12:57",
         "to": null,
-        "worked_hours": "10.78",
+        "worked_hours": "9.28",
         "auto_filled": true
       }
     ],
@@ -14694,97 +14974,82 @@
       {
         "date": "2025-09-01",
         "time": "2025-09-01 08:34:29",
-        "minutes": 94
+        "minutes": 4
       },
       {
-        "date": "2025-09-03",
-        "time": "2025-09-03 08:22:26",
-        "minutes": 82
-      },
-      {
-        "date": "2025-09-05",
-        "time": "2025-09-05 08:13:01",
-        "minutes": 73
+        "date": "2025-09-08",
+        "time": "2025-09-08 08:34:05",
+        "minutes": 4
       },
       {
         "date": "2025-09-09",
         "time": "2025-09-09 08:35:05",
-        "minutes": 95
+        "minutes": 5
       },
       {
         "date": "2025-09-15",
         "time": "2025-09-15 08:36:26",
-        "minutes": 96
-      },
-      {
-        "date": "2025-09-17",
-        "time": "2025-09-17 08:09:49",
-        "minutes": 70
+        "minutes": 6
       },
       {
         "date": "2025-09-19",
         "time": "2025-09-19 08:44:54",
-        "minutes": 105
+        "minutes": 15
       },
       {
         "date": "2025-09-23",
         "time": "2025-09-23 09:32:17",
-        "minutes": 152
-      },
-      {
-        "date": "2025-09-25",
-        "time": "2025-09-25 08:12:57",
-        "minutes": 73
+        "minutes": 62
       }
     ],
     "early_checkouts": [
       {
-        "date": "2025-09-01",
-        "time": "2025-09-01 17:44:14",
-        "minutes": 76
-      },
-      {
-        "date": "2025-09-03",
-        "time": "2025-09-03 17:33:17",
-        "minutes": 87
-      },
-      {
-        "date": "2025-09-05",
-        "time": "2025-09-05 17:32:08",
-        "minutes": 88
+        "date": "2025-09-02",
+        "time": "2025-09-02 13:29:10",
+        "minutes": 241
       },
       {
         "date": "2025-09-09",
         "time": "2025-09-09 17:15:42",
-        "minutes": 104
+        "minutes": 14
       },
       {
-        "date": "2025-09-15",
-        "time": "2025-09-15 17:33:02",
-        "minutes": 87
+        "date": "2025-09-20",
+        "time": "2025-09-20 12:14:38",
+        "minutes": 15
       },
       {
-        "date": "2025-09-17",
-        "time": "2025-09-17 17:47:28",
-        "minutes": 73
-      },
-      {
-        "date": "2025-09-19",
-        "time": "2025-09-19 17:34:10",
-        "minutes": 86
+        "date": "2025-09-22",
+        "time": "2025-09-22 17:27:12",
+        "minutes": 3
       },
       {
         "date": "2025-09-23",
         "time": "2025-09-23 12:15:56",
-        "minutes": 404
+        "minutes": 314
+      },
+      {
+        "date": "2025-09-24",
+        "time": "2025-09-24 17:19:53",
+        "minutes": 10
       }
     ],
-    "extra_hours": [],
+    "extra_hours": [
+      {
+        "date": "2025-09-20",
+        "extra_hours": 0.43
+      }
+    ],
     "forgot": [
       {
         "type": "forgot_checkin",
         "date": "2025-09-01",
         "time": "2025-09-01 17:44:14"
+      },
+      {
+        "type": "forgot_checkout",
+        "date": "2025-09-02",
+        "time": "2025-09-02 14:17:17"
       },
       {
         "type": "forgot_checkin",
@@ -14793,8 +15058,18 @@
       },
       {
         "type": "forgot_checkin",
+        "date": "2025-09-08",
+        "time": "2025-09-08 17:43:26"
+      },
+      {
+        "type": "forgot_checkin",
         "date": "2025-09-09",
         "time": "2025-09-09 17:15:42"
+      },
+      {
+        "type": "forgot_checkin",
+        "date": "2025-09-10",
+        "time": "2025-09-10 17:30:17"
       },
       {
         "type": "forgot_checkout",
@@ -14803,19 +15078,20 @@
       }
     ],
     "absent_days": [
-      "2025-09-07",
-      "2025-09-13",
-      "2025-09-21"
+      "2025-09-04",
+      "2025-09-06",
+      "2025-09-12",
+      "2025-09-13"
     ],
     "off_days": [],
     "unscheduled_shifts": [],
     "totals": {
-      "total_worked_hours": 50.28,
-      "total_worked_auto": 92.6,
-      "total_late_hours": 14.02,
-      "total_early_hours": 16.73,
-      "expected_work_days": 12,
-      "expected_work_hours": 144
+      "total_worked_hours": 102.71,
+      "total_worked_auto": 160.47,
+      "total_late_hours": 1.62,
+      "total_early_hours": 9.96,
+      "expected_work_days": 21,
+      "expected_work_hours": 174
     }
   },
   {
