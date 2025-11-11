@@ -20,19 +20,41 @@ const NIGHT_SHIFT_BADGE_IDS = [
 	"1033",
 	"1034",
 	"1040",
+	"1041",
 	"1045",
 	"1048",
 	"1053",
+	"1057",
 	"1061",
 	"1064",
 	"1066",
 	"1072",
+	"1074",
+	"1085",
+	"1086",
+	"1087",
+	"1091",
+	"1094",
+	"1095",
+	"1096",
 ];
 
 // New: these 1000–1999 employees should now be treated as REGULAR (not day or night shift).
 const REGULAR_SHIFT_OVERRIDES = [
-	// "1015","1025",  // Example placeholders – replace with real list
-	"1010", "1071"
+	"1010",
+	"1013",
+	"1012",
+	"1090",
+	"1081",
+	"1080",
+	"1079",
+	"1078",
+	"1077",
+	"1075",
+	"1073",
+	"1054",
+	"1024",
+	"1071", 
 ];
 
 // Gap-based absence configuration for night shifts
