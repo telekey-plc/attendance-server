@@ -52,7 +52,7 @@
 	{
 		"id": 124,
 		"name": "Alem Asimare",
-		"badge_id": ""
+		"badge_id": "1073"
 	},
 	{
 		"id": 42,
@@ -392,7 +392,7 @@
 	{
 		"id": 123,
 		"name": "Selamawit Sisay",
-		"badge_id": ""
+		"badge_id": "1072"
 	},
 	{
 		"id": 53,
@@ -518,5 +518,121 @@
 		"id": 106,
 		"name": "Zelalem Amensa",
 		"badge_id": "1071"
+	},
+	{
+		"id": 107,
+		"name": "Selamawit Sisay",
+		"badge_id": "107"
+	},
+	{
+		"id": 108,
+		"name": "Sisay Wendu",
+		"badge_id": "1074"
+	},
+	{
+		"id": 109,
+		"name": "Wubhareg Mihret",
+		"badge_id": "1075"
+	},
+	{
+		"id": 110,
+		"name": "Abdil Fasil",
+		"badge_id": "1077"
+	},
+	{
+		"id": 111,
+		"name": "Dechasa Teshome",
+		"badge_id": "1078"
+	},
+	{
+		"id": 112,
+		"name": "Kalkidan Teshome",
+		"badge_id": "1079"
+	},
+	{
+		"id": 113,
+		"name": "Temesgen Asmare",
+		"badge_id": "1080"
+	},
+	{
+		"id": 114,
+		"name": "Mekdes Mare",
+		"badge_id": "1081"
+	},
+	{
+		"id": 115,
+		"name": "Biruk Kassahun",
+		"badge_id": "1082"
+	},
+	{
+		"id": 116,
+		"name": "Eyasu Molla",
+		"badge_id": "1083"
+	},
+	{
+		"id": 117,
+		"name": "Abel Goitom",
+		"badge_id": "1084"
+	},
+	{
+		"id": 118,
+		"name": "Tarikayehu Bekele",
+		"badge_id": "1085"
+	},
+	{
+		"id": 119,
+		"name": "Temam Gemechu",
+		"badge_id": "1086"
+	},
+	{
+		"id": 120,
+		"name": "Betselot Asrat",
+		"badge_id": "1087"
+	},
+	{
+		"id": 121,
+		"name": "Gutema Fangea",
+		"badge_id": "1088"
+	},
+	{
+		"id": 122,
+		"name": "Tamirat Gebru",
+		"badge_id": "1089"
+	},
+	{
+		"id": 123,
+		"name": "Nebiyu Tamirat",
+		"badge_id": "1090"
+	},
+	{
+		"id": 124,
+		"name": "Abraham Dereje",
+		"badge_id": "1091"
+	},
+	{
+		"id": 125,
+		"name": "Tewodros Werku",
+		"badge_id": "1092"
+	},
+	{
+		"id": 126,
+		"name": "Hawi Birhanu",
+		"badge_id": "1093"
+	},
+	{
+		"id": 127,
+		"name": "Dagmawi Gedefa",
+		"badge_id": "1094"
+	},
+	{
+		"id": 128,
+		"name": "Kidst Belay",
+		"badge_id": "1095"
+	},
+	{
+		"id": 129,
+		"name": "Derese Getaneh",
+		"badge_id": "1096"
 	}
+
 ]
