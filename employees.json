@@ -2,637 +2,745 @@
 	{
 		"id": 75,
 		"name": "Abel Baraki",
-		"badge_id": "1001"
+		"badge_id": "1001",
+		"department": "CS"
 	},
 	{
 		"id": 39,
 		"name": "Abel Mebratu",
-		"badge_id": "1002"
+		"badge_id": "1002",
+		"department": "CS"
 	},
 	{
-		"id": 61,
+		"id": 61,  
 		"name": "Abel Mulu",
-		"badge_id": "1003"
-	},
-	{
-		"id": 28,
-		"name": "Abiyu Tsegaye",
-		"badge_id": "1004"
+		"badge_id": "1003",
+		"department": "CS"
 	},
 	{
 		"id": 121,
 		"name": "Abriham Hailu",
-		"badge_id": "4010"
+		"badge_id": "4010",
+		"department": "Facilities"
 	},
 	{
 		"id": 30,
 		"name": "Adiam Ashibr",
-		"badge_id": "1005"
+		"badge_id": "1005",
+		"department": "CS"
 	},
 	{
 		"id": 88,
 		"name": "Adiam Melese",
-		"badge_id": "3005"
+		"badge_id": "3005",
+		"department": "Management"
 	},
 	{
 		"id": 92,
 		"name": "Adisu Mihret",
-		"badge_id": "3004"
+		"badge_id": "3004",
+		"department": "Management"
 	},
 	{
 		"id": 23,
 		"name": "Adisu Mihret",
-		"badge_id": "1006"
-	},
-	{
-		"id": 1,
-		"name": "Administrator",
-		"badge_id": "1"
+		"badge_id": "1006",
+		"department": "CS"
 	},
 	{
 		"id": 124,
 		"name": "Alem Asimare",
-		"badge_id": "1073"
+		"badge_id": "1073",
+		"department": "CS"
 	},
 	{
 		"id": 42,
 		"name": "Amanuel  Asres",
-		"badge_id": "1007"
+		"badge_id": "1007",
+		"department": "CS"
 	},
 	{
 		"id": 73,
 		"name": "Amanuel Mekete",
-		"badge_id": "1008"
+		"badge_id": "1008",
+		"department": "CS"
 	},
 	{
 		"id": 64,
 		"name": "Amlak Esubalew",
-		"badge_id": "1009"
+		"badge_id": "1009",
+		"department": "CS"
 	},
 	{
 		"id": 109,
 		"name": "Anatoli Dereje",
-		"badge_id": "3001"
+		"badge_id": "3001",
+		"department": "Management"
 	},
 	{
 		"id": 68,
 		"name": "Aron G/Medhin",
-		"badge_id": "1010"
+		"badge_id": "1010",
+		"department": "CS"
 	},
 	{
 		"id": 63,
 		"name": "Aschalew Melese",
-		"badge_id": "1011"
+		"badge_id": "1011",
+		"department": "CS"
 	},
 	{
 		"id": 119,
 		"name": "Ayalenesh Merga",
-		"badge_id": "4008"
+		"badge_id": "4008",
+		"department": "Facilities"
 	},
 	{
 		"id": 22,
 		"name": "Banchalem Bekele",
-		"badge_id": "1012"
+		"badge_id": "1012",
+		"department": "CS"
 	},
 	{
 		"id": 89,
 		"name": "Banchiamlak Aschenaki",
-		"badge_id": "3007"
+		"badge_id": "3007",
+		"department": "Management"
 	},
 	{
 		"id": 102,
 		"name": "Betlhem Goshme",
-		"badge_id": "1013"
+		"badge_id": "1013",
+		"department": "CS"
 	},
 	{
 		"id": 47,
 		"name": "Beza Tilahun",
-		"badge_id": "1014"
+		"badge_id": "1014",
+		"department": "CS"
 	},
 	{
 		"id": 69,
 		"name": "Bezawit Ayele",
-		"badge_id": "1015"
+		"badge_id": "1015",
+		"department": "CS"
 	},
 	{
 		"id": 36,
 		"name": "Bezawit Kassahun",
-		"badge_id": "1016"
+		"badge_id": "1016",
+		"department": "CS"
 	},
 	{
 		"id": 60,
 		"name": "Bire Goshme",
-		"badge_id": "1017"
+		"badge_id": "1017",
+		"department": "CS"
 	},
 	{
 		"id": 94,
 		"name": "Biruk Wondimagegn",
-		"badge_id": "2001"
+		"badge_id": "2001",
+		"department": "Marketing"
 	},
 	{
 		"id": 108,
 		"name": "Bisrat Yohans",
-		"badge_id": "1018"
+		"badge_id": "1018",
+		"department": "CS"
 	},
 	{
 		"id": 66,
 		"name": "Dagim Ageze",
-		"badge_id": "1019"
+		"badge_id": "1019",
+		"department": "CS"
 	},
 	{
 		"id": 76,
 		"name": "Daniel Nibret",
-		"badge_id": "1021"
+		"badge_id": "1021",
+		"department": "CS"
 	},
 	{
 		"id": 15,
 		"name": "Dawit Tsehay",
-		"badge_id": "2002"
+		"badge_id": "2002",
+		"department": "Marketing"
 	},
 	{
 		"id": 74,
 		"name": "Ebensa Teshome",
-		"badge_id": "1022"
+		"badge_id": "1022",
+		"department": "CS"
 	},
 	{
 		"id": 21,
 		"name": "Eden Chanyalew",
-		"badge_id": "1023"
+		"badge_id": "1023",
+		"department": "CS"
 	},
 	{
 		"id": 93,
 		"name": "Eden Minwyelt",
-		"badge_id": "1024"
+		"badge_id": "1024",
+		"department": "CS"
 	},
 	{
 		"id": 33,
 		"name": "Edom Akalu",
-		"badge_id": "1025"
+		"badge_id": "1025",
+		"department": "CS"
 	},
 	{
 		"id": 96,
 		"name": "Elbetel Melaku",
-		"badge_id": "2003"
+		"badge_id": "2003",
+		"department": "Marketing"
 	},
 	{
 		"id": 45,
 		"name": "Elsabet Azage",
-		"badge_id": "1026"
+		"badge_id": "1026",
+		"department": "CS"
 	},
 	{
 		"id": 57,
 		"name": "Eskender Asmare",
-		"badge_id": "1027"
+		"badge_id": "1027",
+		"department": "CS"
 	},
 	{
 		"id": 77,
 		"name": "Eyerusalem  Demissie",
-		"badge_id": "1028"
+		"badge_id": "1028",
+		"department": "CS"
 	},
 	{
 		"id": 70,
 		"name": "Eyob Miniyechel",
-		"badge_id": "1029"
+		"badge_id": "1029",
+		"department": "CS"
 	},
 	{
 		"id": 12,
 		"name": "Eyob Tesfaye",
-		"badge_id": "2004"
+		"badge_id": "2004",
+		"department": "Marketing"
 	},
 	{
 		"id": 103,
 		"name": "Habtamu Bayisa",
-		"badge_id": "1030"
+		"badge_id": "1030",
+		"department": "CS"
 	},
 	{
 		"id": 100,
 		"name": "Hanna Semu",
-		"badge_id": "6002"
+		"badge_id": "6002",
+		"department": "IT"
 	},
 	{
 		"id": 82,
 		"name": "Henok Workineh",
-		"badge_id": "1031"
+		"badge_id": "1031",
+		"department": "CS"
 	},
 	{
 		"id": 10,
 		"name": "Hermella Fikre",
-		"badge_id": "2005"
+		"badge_id": "2005",
+		"department": "Marketing"
 	},
 	{
 		"id": 54,
 		"name": "Hulunayehu Tsegaye",
-		"badge_id": "1032"
+		"badge_id": "1032",
+		"department": "CS"
 	},
 	{
 		"id": 56,
 		"name": "Kaleab Asmare",
-		"badge_id": "1033"
+		"badge_id": "1033",
+		"department": "CS"
 	},
 	{
 		"id": 40,
 		"name": "Kaleb Eyasu",
-		"badge_id": "1034"
+		"badge_id": "1034",
+		"department": "CS"
 	},
 	{
 		"id": 91,
 		"name": "Kalkidan Semere",
-		"badge_id": "3008"
+		"badge_id": "3008",
+		"department": "Management"
 	},
 	{
 		"id": 65,
 		"name": "Kidus Worku",
-		"badge_id": "1035"
+		"badge_id": "1035",
+		"department": "CS"
 	},
 	{
 		"id": 51,
 		"name": "Lidia Ketema",
-		"badge_id": "1036"
+		"badge_id": "1036",
+		"department": "CS"
 	},
 	{
 		"id": 34,
 		"name": "Liya Tariku",
-		"badge_id": "1037"
-	},
-	{
-		"id": 17,
-		"name": "Mahlet Berihu",
-		"badge_id": "3002"
+		"badge_id": "1037",
+		"department": "CS"
 	},
 	{
 		"id": 49,
 		"name": "Mahlet Debebe",
-		"badge_id": "1038"
+		"badge_id": "1038",
+		"department": "CS"
 	},
 	{
 		"id": 24,
 		"name": "Mahlet Negussie",
-		"badge_id": "1039"
+		"badge_id": "1039",
+		"department": "CS"
 	},
 	{
 		"id": 3,
 		"name": "Mariamawit Tefera",
-		"badge_id": "2006"
+		"badge_id": "2006",
+		"department": "Marketing"
 	},
 	{
 		"id": 113,
 		"name": "Mastawal Mekurya",
-		"badge_id": "4002"
+		"badge_id": "4002",
+		"department": "Facilities"
 	},
 	{
 		"id": 112,
 		"name": "Meaza Sintayehu",
-		"badge_id": "4001"
+		"badge_id": "4001",
+		"department": "Facilities"
 	},
 	{
 		"id": 27,
 		"name": "Mekuanint Fisie",
-		"badge_id": "1040"
+		"badge_id": "1040",
+		"department": "CS"
 	},
 	{
 		"id": 41,
 		"name": "Meron Getachew",
-		"badge_id": "1041"
+		"badge_id": "1041",
+		"department": "CS"
 	},
 	{
 		"id": 46,
 		"name": "Meron Gosaye",
-		"badge_id": "1042"
+		"badge_id": "1042",
+		"department": "CS"
 	},
 	{
 		"id": 62,
 		"name": "Meron Sisay",
-		"badge_id": "1043"
+		"badge_id": "1043",
+		"department": "CS"
 	},
 	{
 		"id": 117,
 		"name": "Mihiret Yohannes",
-		"badge_id": "4006"
+		"badge_id": "4006",
+		"department": "Facilities"
 	},
 	{
 		"id": 43,
 		"name": "Mihret Fikadu",
-		"badge_id": "1044"
+		"badge_id": "1044",
+		"department": "CS"
 	},
 	{
 		"id": 95,
 		"name": "Mihretab Asheber",
-		"badge_id": "2007"
+		"badge_id": "2007",
+		"department": "Marketing"
 	},
 	{
 		"id": 38,
 		"name": "Mikias Mesfin",
-		"badge_id": "1045"
+		"badge_id": "1045",
+		"department": "CS"
 	},
 	{
 		"id": 37,
 		"name": "Mistreslase Elias",
-		"badge_id": "1046"
+		"badge_id": "1046",
+		"department": "CS"
 	},
 	{
 		"id": 71,
 		"name": "Munik Eshetu",
-		"badge_id": "1047"
+		"badge_id": "1047",
+		"department": "CS"
 	},
 	{
 		"id": 18,
 		"name": "Nafkot Daniel",
-		"badge_id": "3003"
+		"badge_id": "3003",
+		"department": "Management"
 	},
 	{
 		"id": 120,
 		"name": "Nathnael Eshete",
-		"badge_id": "4009"
+		"badge_id": "4009",
+		"department": "Facilities"
 	},
 	{
 		"id": 87,
 		"name": "Natnael Agergizat",
-		"badge_id": "1048"
+		"badge_id": "1048",
+		"department": "CS"
 	},
 	{
 		"id": 107,
 		"name": "Natnael Hailu",
-		"badge_id": "2008"
+		"badge_id": "2008",
+		"department": "Marketing"
 	},
 	{
 		"id": 52,
 		"name": "Rediet Teka",
-		"badge_id": "1049"
+		"badge_id": "1049",
+		"department": "CS"
 	},
 	{
 		"id": 72,
 		"name": "Robel Bereket",
-		"badge_id": "1050"
+		"badge_id": "1050",
+		"department": "CS"
 	},
 	{
 		"id": 4,
 		"name": "Samuel Kassahun",
-		"badge_id": "3000"
+		"badge_id": "3000",
+		"department": "Management"
 	},
 	{
 		"id": 32,
 		"name": "Samuel Kebreab",
-		"badge_id": "1051"
+		"badge_id": "1051",
+		"department": "CS"
 	},
 	{
 		"id": 50,
 		"name": "Seble Ejigu",
-		"badge_id": "1052"
+		"badge_id": "1052",
+		"department": "CS"
 	},
 	{
 		"id": 79,
 		"name": "Selamawit  Tesfaye",
-		"badge_id": "1053"
+		"badge_id": "1053",
+		"department": "CS"
 	},
 	{
 		"id": 118,
 		"name": "Selamawit Moges",
-		"badge_id": "4007"
+		"badge_id": "4007",
+		"department": "Facilities"
 	},
 	{
 		"id": 123,
 		"name": "Selamawit Sisay",
-		"badge_id": "1072"
+		"badge_id": "1072",
+		"department": "CS"
 	},
 	{
 		"id": 53,
 		"name": "Serkalem Alemu",
-		"badge_id": "1054"
+		"badge_id": "1054",
+		"department": "CS"
 	},
 	{
 		"id": 59,
 		"name": "Simret Solomon",
-		"badge_id": "1055"
+		"badge_id": "1055",
+		"department": "CS"
 	},
 	{
 		"id": 67,
 		"name": "Surafel Gebru",
-		"badge_id": "1056"
+		"badge_id": "1056",
+		"department": "CS"
 	},
 	{
 		"id": 122,
 		"name": "Temesegen Kahsay",
-		"badge_id": "4011"
+		"badge_id": "4011",
+		"department": "Facilities"
 	},
 	{
 		"id": 111,
 		"name": "Tesfahun Arega",
-		"badge_id": "3006"
+		"badge_id": "3006",
+		"department": "Management"
 	},
 	{
 		"id": 114,
 		"name": "Tigist Gedamu",
-		"badge_id": "4003"
+		"badge_id": "4003",
+		"department": "Facilities"
 	},
 	{
 		"id": 116,
 		"name": "Tigist Girma",
-		"badge_id": "4005"
+		"badge_id": "4005",
+		"department": "Facilities"
 	},
 	{
 		"id": 81,
 		"name": "Tsegaye yigermal",
-		"badge_id": "1057"
+		"badge_id": "1057",
+		"department": "CS"
 	},
 	{
 		"id": 35,
 		"name": "Tsion Daniel",
-		"badge_id": "1058"
+		"badge_id": "1058",
+		"department": "CS"
 	},
 	{
 		"id": 58,
 		"name": "Tsion Ephrem",
-		"badge_id": "1059"
+		"badge_id": "1059",
+		"department": "CS"
 	},
 	{
 		"id": 31,
 		"name": "Tsion Tamirat",
-		"badge_id": "1060"
+		"badge_id": "1060",
+		"department": "CS"
 	},
 	{
 		"id": 78,
 		"name": "Wondwessen Getinet",
-		"badge_id": "1061"
+		"badge_id": "1061",
+		"department": "CS"
 	},
 	{
 		"id": 25,
 		"name": "Yabets Aderaw",
-		"badge_id": "1062"
+		"badge_id": "1062",
+		"department": "CS"
 	},
 	{
 		"id": 84,
 		"name": "Yabikbra Million",
-		"badge_id": "1063"
+		"badge_id": "1063",
+		"department": "CS"
 	},
 	{
 		"id": 26,
 		"name": "Yanet Dereje",
-		"badge_id": "1064"
+		"badge_id": "1064",
+		"department": "CS"
 	},
 	{
 		"id": 55,
 		"name": "Yeabtsega  Mesfin",
-		"badge_id": "1065"
+		"badge_id": "1065",
+		"department": "CS"
 	},
 	{
 		"id": 83,
 		"name": "Yeabtsega Aderaw",
-		"badge_id": "1066"
+		"badge_id": "1066",
+		"department": "CS"
 	},
 	{
 		"id": 115,
 		"name": "Yeshihareg Aweke",
-		"badge_id": "4004"
+		"badge_id": "4004",
+		"department": "Facilities"
 	},
 	{
 		"id": 48,
 		"name": "Yohannes Tesfahun",
-		"badge_id": "1067"
+		"badge_id": "1067",
+		"department": "CS"
 	},
 	{
 		"id": 85,
 		"name": "Yordanos Getachew",
-		"badge_id": "1068"
+		"badge_id": "1068",
+		"department": "CS"
 	},
 	{
 		"id": 44,
 		"name": "Yordanos Wendater",
-		"badge_id": "1069"
+		"badge_id": "1069",
+		"department": "CS"
 	},
 	{
 		"id": 29,
 		"name": "Yordanos Yabiru",
-		"badge_id": "1070"
+		"badge_id": "1070",
+		"department": "CS"
 	},
 	{
 		"id": 110,
-		"name": "Yoseph  Haile",
+		"name": "Yoseph Haile",
 		"badge_id": ""
 	},
 	{
 		"id": 5,
 		"name": "Zeamanuel Kiflu",
-		"badge_id": "6001"
+		"badge_id": "6001",
+		"department": "IT"
 	},
 	{
 		"id": 106,
 		"name": "Zelalem Amensa",
-		"badge_id": "1071"
-	},
-	{
-		"id": 107,
-		"name": "Selamawit Sisay",
-		"badge_id": "107"
+		"badge_id": "1071",
+		"department": "CS"
 	},
 	{
 		"id": 108,
 		"name": "Sisay Wendu",
-		"badge_id": "1074"
+		"badge_id": "1074",
+		"department": "CS"
 	},
 	{
 		"id": 109,
 		"name": "Wubhareg Mihret",
-		"badge_id": "1075"
+		"badge_id": "1075",
+		"department": "CS"
 	},
 	{
 		"id": 110,
 		"name": "Abdil Fasil",
-		"badge_id": "1077"
+		"badge_id": "1077",
+		"department": "CS"
 	},
 	{
 		"id": 111,
 		"name": "Dechasa Teshome",
-		"badge_id": "1078"
+		"badge_id": "1078",
+		"department": "CS"
 	},
 	{
 		"id": 112,
 		"name": "Kalkidan Teshome",
-		"badge_id": "1079"
+		"badge_id": "1079",
+		"department": "CS"
 	},
 	{
 		"id": 113,
 		"name": "Temesgen Asmare",
-		"badge_id": "1080"
+		"badge_id": "1080",
+		"department": "CS"
 	},
 	{
 		"id": 114,
 		"name": "Mekdes Mare",
-		"badge_id": "1081"
+		"badge_id": "1081",
+		"department": "CS"
 	},
 	{
 		"id": 115,
 		"name": "Biruk Kassahun",
-		"badge_id": "1082"
+		"badge_id": "1082",
+		"department": "CS"
 	},
 	{
 		"id": 116,
 		"name": "Eyasu Molla",
-		"badge_id": "1083"
+		"badge_id": "1083",
+		"department": "CS"
 	},
 	{
 		"id": 117,
 		"name": "Abel Goitom",
-		"badge_id": "1084"
+		"badge_id": "1084",
+		"department": "CS"
 	},
 	{
 		"id": 118,
 		"name": "Tarikayehu Bekele",
-		"badge_id": "1085"
+		"badge_id": "1085",
+		"department": "CS"
 	},
 	{
 		"id": 119,
 		"name": "Temam Gemechu",
-		"badge_id": "1086"
+		"badge_id": "1086",
+		"department": "CS"
 	},
 	{
 		"id": 120,
 		"name": "Betselot Asrat",
-		"badge_id": "1087"
+		"badge_id": "1087",
+		"department": "CS"
 	},
 	{
 		"id": 121,
 		"name": "Gutema Fangea",
-		"badge_id": "1088"
+		"badge_id": "1088",
+		"department": "CS"
 	},
 	{
 		"id": 122,
 		"name": "Tamirat Gebru",
-		"badge_id": "1089"
+		"badge_id": "1089",
+		"department": "CS"
 	},
 	{
 		"id": 123,
 		"name": "Nebiyu Tamirat",
-		"badge_id": "1090"
+		"badge_id": "1090",
+		"department": "CS"
 	},
 	{
 		"id": 124,
 		"name": "Abraham Dereje",
-		"badge_id": "1091"
+		"badge_id": "1091",
+		"department": "CS"
 	},
 	{
 		"id": 125,
 		"name": "Tewodros Werku",
-		"badge_id": "1092"
+		"badge_id": "1092",
+		"department": "CS"
 	},
 	{
 		"id": 126,
 		"name": "Hawi Birhanu",
-		"badge_id": "1093"
+		"badge_id": "1093",
+		"department": "CS"
 	},
 	{
 		"id": 127,
 		"name": "Dagmawi Gedefa",
-		"badge_id": "1094"
+		"badge_id": "1094",
+		"department": "CS"
 	},
 	{
 		"id": 128,
 		"name": "Kidst Belay",
-		"badge_id": "1095"
+		"badge_id": "1095",
+		"department": "CS"
 	},
 	{
 		"id": 129,
 		"name": "Derese Getaneh",
-		"badge_id": "1096"
+		"badge_id": "1096",
+		"department": "CS"
+	},
+	{
+		"id": 130,
+		"name": "Faysel Khedir",
+		"badge_id": "3009",
+		"department": "Management"
 	}
 
 ]
