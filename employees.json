@@ -66,12 +66,6 @@
 		"department": "CS"
 	},
 	{
-		"id": 64,
-		"name": "Amlak Esubalew",
-		"badge_id": "1009",
-		"department": "CS"
-	},
-	{
 		"id": 109,
 		"name": "Anatoli Dereje",
 		"badge_id": "3001",
@@ -358,12 +352,6 @@
 		"name": "Mihret Fikadu",
 		"badge_id": "1044",
 		"department": "CS"
-	},
-	{
-		"id": 95,
-		"name": "Mihretab Asheber",
-		"badge_id": "2007",
-		"department": "Marketing"
 	},
 	{
 		"id": 38,
@@ -741,6 +729,12 @@
 		"name": "Faysel Khedir",
 		"badge_id": "3009",
 		"department": "Management"
+	},
+	{
+		"id": 131,
+		"name": "Biruk GM",
+		"badge_id": "2007",
+		"department": "Marketing"
 	}
 
 ]
