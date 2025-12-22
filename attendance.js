@@ -777,7 +777,7 @@ const GLOBAL_TOLERANCE_MIN = 30;
 // Custom tolerance (minutes) for specific employees (array of badge_id strings).
 // Put badge IDs here if they should have the custom tolerance instead of the global one.
 const CUSTOM_TOLERANCE_IDS = [
-	"1010", "3001",
+	"1010", "3001", ""
 ];
 const CUSTOM_TOLERANCE_MIN = 60;
 

@@ -247,7 +247,7 @@
       "total_late_hours": 0.06,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -460,7 +460,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -858,7 +858,7 @@
       "total_late_hours": 0,
       "total_early_hours": 5.12,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -1129,7 +1129,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -1480,7 +1480,7 @@
       "total_late_hours": 0,
       "total_early_hours": 4.4,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -1889,7 +1889,7 @@
       "total_late_hours": 5.6,
       "total_early_hours": 5.17,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -2091,96 +2091,40 @@
       {
         "date": "2025-10-25",
         "time": "2025-10-25 09:32:44",
-        "minutes": 33
+        "minutes": 3
       },
       {
         "date": "2025-10-27",
         "time": "2025-10-27 09:56:52",
-        "minutes": 57
-      },
-      {
-        "date": "2025-10-29",
-        "time": "2025-10-29 09:20:18",
-        "minutes": 20
-      },
-      {
-        "date": "2025-11-01",
-        "time": "2025-11-01 09:05:06",
-        "minutes": 5
-      },
-      {
-        "date": "2025-11-03",
-        "time": "2025-11-03 09:07:51",
-        "minutes": 8
-      },
-      {
-        "date": "2025-11-04",
-        "time": "2025-11-04 09:24:09",
-        "minutes": 24
+        "minutes": 27
       },
       {
         "date": "2025-11-05",
         "time": "2025-11-05 09:39:14",
-        "minutes": 39
-      },
-      {
-        "date": "2025-11-06",
-        "time": "2025-11-06 09:08:22",
-        "minutes": 8
-      },
-      {
-        "date": "2025-11-07",
-        "time": "2025-11-07 09:25:44",
-        "minutes": 26
-      },
-      {
-        "date": "2025-11-13",
-        "time": "2025-11-13 09:19:32",
-        "minutes": 20
+        "minutes": 9
       },
       {
         "date": "2025-11-14",
         "time": "2025-11-14 09:43:28",
-        "minutes": 43
-      },
-      {
-        "date": "2025-11-15",
-        "time": "2025-11-15 09:19:10",
-        "minutes": 19
-      },
-      {
-        "date": "2025-11-17",
-        "time": "2025-11-17 09:19:48",
-        "minutes": 20
+        "minutes": 13
       },
       {
         "date": "2025-11-18",
         "time": "2025-11-18 09:36:57",
-        "minutes": 37
-      },
-      {
-        "date": "2025-11-21",
-        "time": "2025-11-21 09:26:41",
-        "minutes": 27
+        "minutes": 7
       },
       {
         "date": "2025-11-22",
         "time": "2025-11-22 09:30:22",
-        "minutes": 30
+        "minutes": 0
       },
       {
         "date": "2025-11-24",
         "time": "2025-11-24 09:53:50",
-        "minutes": 54
+        "minutes": 24
       }
     ],
-    "early_checkouts": [
-      {
-        "date": "2025-10-28",
-        "time": "2025-10-28 16:42:26",
-        "minutes": 18
-      }
-    ],
+    "early_checkouts": [],
     "extra_hours": [
       {
         "date": "2025-10-29",
@@ -2271,8 +2215,8 @@
     "totals": {
       "total_worked_hours": 122.6,
       "total_worked_auto": 174.92,
-      "total_late_hours": 7.84,
-      "total_early_hours": 0.29,
+      "total_late_hours": 1.39,
+      "total_early_hours": 0,
       "expected_work_days": 26,
       "expected_work_hours": 188
     }
@@ -2512,7 +2456,7 @@
       "total_late_hours": 1.03,
       "total_early_hours": 0.42,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -3914,7 +3858,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -4276,7 +4220,7 @@
       "total_late_hours": 2.68,
       "total_early_hours": 5.73,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -4552,7 +4496,7 @@
       "total_late_hours": 4.45,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -4651,7 +4595,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -4886,7 +4830,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -5095,7 +5039,7 @@
       "total_late_hours": 0.13,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -5330,7 +5274,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -5579,7 +5523,7 @@
       "total_late_hours": 3.01,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -5732,7 +5676,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -6524,7 +6468,7 @@
       "total_late_hours": 0.69,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -6869,7 +6813,7 @@
       "total_late_hours": 0.14,
       "total_early_hours": 2.36,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -7186,7 +7130,7 @@
       "total_late_hours": 0.05,
       "total_early_hours": 0.01,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -7583,7 +7527,7 @@
       "total_late_hours": 2.96,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -7789,7 +7733,7 @@
       "total_late_hours": 0.09,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -8093,7 +8037,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -8280,7 +8224,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0.16,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -8632,7 +8576,7 @@
       "total_late_hours": 0.84,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -8826,7 +8770,7 @@
       "total_late_hours": 1.05,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -9067,7 +9011,7 @@
       "total_late_hours": 1.18,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -9445,7 +9389,7 @@
       "total_late_hours": 1.01,
       "total_early_hours": 5.41,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -9822,7 +9766,7 @@
       "total_late_hours": 0,
       "total_early_hours": 12.04,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -10119,7 +10063,7 @@
       "total_late_hours": 1.26,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -10390,7 +10334,7 @@
       "total_late_hours": 0.57,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -10739,7 +10683,7 @@
       "total_late_hours": 3.53,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -10977,7 +10921,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -11207,7 +11151,7 @@
       "total_late_hours": 0.17,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -11545,7 +11489,7 @@
       "total_late_hours": 0,
       "total_early_hours": 5.47,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -11891,7 +11835,7 @@
       "total_late_hours": 5.35,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -12287,7 +12231,7 @@
       "total_late_hours": 0.31,
       "total_early_hours": 6.09,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -12580,7 +12524,7 @@
       "total_late_hours": 4.91,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -12751,7 +12695,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -12974,7 +12918,7 @@
       "total_late_hours": 0.13,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -13329,7 +13273,7 @@
       "total_late_hours": 0.01,
       "total_early_hours": 11.73,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -13650,7 +13594,7 @@
       "total_late_hours": 1.03,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -13746,7 +13690,7 @@
       "total_late_hours": 0.89,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -13959,7 +13903,7 @@
       "total_late_hours": 0.02,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -14718,7 +14662,7 @@
       "total_late_hours": 0,
       "total_early_hours": 11.23,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -15069,7 +15013,7 @@
       "total_late_hours": 2.01,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -15359,7 +15303,7 @@
       "total_late_hours": 0.64,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -15692,7 +15636,7 @@
       "total_late_hours": 5.37,
       "total_early_hours": 11.82,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -16076,7 +16020,7 @@
       "total_late_hours": 1.9,
       "total_early_hours": 0.84,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -16396,7 +16340,7 @@
       "total_late_hours": 0.14,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -16627,7 +16571,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -17027,7 +16971,7 @@
       "total_late_hours": 8.81,
       "total_early_hours": 5.93,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -17286,7 +17230,7 @@
       "total_late_hours": 6.18,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -17462,7 +17406,7 @@
       "total_late_hours": 0.81,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -17795,7 +17739,7 @@
       "total_late_hours": 0.25,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -17950,7 +17894,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -18256,7 +18200,7 @@
       "total_late_hours": 10.89,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -18627,7 +18571,7 @@
       "total_late_hours": 4.45,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -18886,7 +18830,7 @@
       "total_late_hours": 7.69,
       "total_early_hours": 23.94,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -19213,7 +19157,7 @@
       "total_late_hours": 0.56,
       "total_early_hours": 15.7,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -19918,7 +19862,7 @@
       "total_late_hours": 0.23,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -20890,7 +20834,7 @@
       "total_late_hours": 2.32,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -24286,7 +24230,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -24639,7 +24583,7 @@
       "total_late_hours": 0.55,
       "total_early_hours": 0.48,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -24988,7 +24932,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -25181,7 +25125,7 @@
       "total_late_hours": 0.77,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -25419,7 +25363,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -25602,7 +25546,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -25883,7 +25827,7 @@
       "total_late_hours": 0.98,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -26177,7 +26121,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -26764,7 +26708,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -27083,7 +27027,7 @@
       "total_late_hours": 7.17,
       "total_early_hours": 2.63,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -27392,7 +27336,7 @@
       "total_late_hours": 3.88,
       "total_early_hours": 8.71,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -27584,7 +27528,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -27765,7 +27709,7 @@
       "total_late_hours": 0.38,
       "total_early_hours": 0,
       "expected_work_days": 16,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 192
     }
   },
   {
@@ -27912,7 +27856,7 @@
       "total_late_hours": 0,
       "total_early_hours": 0,
       "expected_work_days": 15,
-      "expected_work_hours": 170.5
+      "expected_work_hours": 180
     }
   },
   {
@@ -29550,7 +29494,7 @@
     }
   },
   {
-    "name": "Mihretab Asheber",
+    "name": "Biruk GM",
     "badge_id": "2007",
     "department": "Marketing",
     "shift_type": "regular",
@@ -30371,63 +30315,17 @@
       }
     ],
     "lunch_break": [],
-    "late_checkins": [
-      {
-        "date": "2025-10-27",
-        "time": "2025-10-27 09:00:27",
-        "minutes": 0
-      },
-      {
-        "date": "2025-11-04",
-        "time": "2025-11-04 09:21:17",
-        "minutes": 21
-      },
-      {
-        "date": "2025-11-06",
-        "time": "2025-11-06 09:23:05",
-        "minutes": 23
-      },
-      {
-        "date": "2025-11-08",
-        "time": "2025-11-08 09:12:23",
-        "minutes": 12
-      },
-      {
-        "date": "2025-11-10",
-        "time": "2025-11-10 09:00:24",
-        "minutes": 0
-      },
-      {
-        "date": "2025-11-14",
-        "time": "2025-11-14 09:14:49",
-        "minutes": 15
-      },
-      {
-        "date": "2025-11-17",
-        "time": "2025-11-17 09:19:46",
-        "minutes": 20
-      },
-      {
-        "date": "2025-11-19",
-        "time": "2025-11-19 09:11:49",
-        "minutes": 12
-      }
-    ],
+    "late_checkins": [],
     "early_checkouts": [
       {
         "date": "2025-10-31",
         "time": "2025-10-31 16:08:42",
-        "minutes": 51
+        "minutes": 21
       },
       {
         "date": "2025-11-14",
         "time": "2025-11-14 16:29:15",
-        "minutes": 31
-      },
-      {
-        "date": "2025-11-17",
-        "time": "2025-11-17 16:56:01",
-        "minutes": 4
+        "minutes": 1
       }
     ],
     "extra_hours": [
@@ -30531,8 +30429,8 @@
     "totals": {
       "total_worked_hours": 172.31,
       "total_worked_auto": 202.7,
-      "total_late_hours": 1.73,
-      "total_early_hours": 1.43,
+      "total_late_hours": 0,
+      "total_early_hours": 0.37,
       "expected_work_days": 26,
       "expected_work_hours": 188
     }
